@@ -1,0 +1,7 @@
+- name: Kailash Vetal
+  bio: |
+    Geek | Gamer | Gagger.
+  avatar: ./avatars/kv_hero_img_400_400.jpg
+  social:
+    - url: https://github.com/kailashvetal47
+  featured: true
