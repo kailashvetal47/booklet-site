@@ -1,0 +1,3 @@
+# Linux or Windows (via WSL)
+
+brew install joplin: Important: First, install Node 10+.NPM_CONFIG_PREFIX=~/.joplin-bin npm install -g joplinsudo ln -s ~/.joplin-bin/bin/joplin /usr/bin/joplinBy default, the application binary will be installed under ~/.joplin-bin. You may change this directory if needed. Alternatively, if your npm permissions are setup as described here (Option 2) then simply running npm -g install joplin would work.

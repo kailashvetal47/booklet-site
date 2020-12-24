@@ -1,0 +1,4 @@
+# Multiples words
+
+For example, searching for cat will return all the notes that contain this exact word. Note: it will not return the notes that contain the substring - thus, for "cat", notes that contain "cataclysmic" or "prevaricate" will not be returned.: dog cat - will return any notes that contain the words "dog" and "cat" anywhere in the note, no necessarily in that order nor next to each other. It will not return results that contain "dog" or "cat" only.
+Returns all the notes that contain this term.: Returns all the notes that contain all these words, but not necessarily next to each other.

@@ -1,0 +1,6 @@
+﻿Raspberry Pi 4,a1.large,mg6.medium
+Spec,4 cores @ 1.5GHz4GB RAM,2 cores4GB RAM
+Monthly price,£8.63,$45.35(~£36.09)
+Requests per second,107,52
+Mean requests per second,457ms,978ms
+99th percentile request time,791ms,1247ms

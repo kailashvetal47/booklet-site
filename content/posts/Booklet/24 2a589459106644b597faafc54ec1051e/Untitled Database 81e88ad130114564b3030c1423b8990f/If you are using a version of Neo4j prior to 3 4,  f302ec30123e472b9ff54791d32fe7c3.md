@@ -1,0 +1,1 @@
+# If you are using a version of Neo4j prior to 3.4, the datetime() function will not be available. That function was released in 3.4 and is supported from that version forward.

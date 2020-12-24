@@ -1,0 +1,3 @@
+﻿macOS,brew install joplin
+Linux or Windows (via WSL),"Important: First, install Node 10+.NPM_CONFIG_PREFIX=~/.joplin-bin npm install -g joplinsudo ln -s ~/.joplin-bin/bin/joplin /usr/bin/joplinBy default, the application binary will be installed under ~/.joplin-bin. You may change this directory if needed. Alternatively, if your npm permissions are setup as described here (Option 2) then simply running npm -g install joplin would work."
+Arch Linux,"An Arch Linux package is available here. To install it, use an AUR wrapper such as yay: yay -S joplin. Both the CLI tool (type joplin) and desktop app (type joplin-desktop) are packaged. You can also install a compiled version with the chaotic-aur repository. For support, please go to the GitHub repo."

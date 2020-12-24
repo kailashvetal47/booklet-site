@@ -1,0 +1,1 @@
+# Current screenshots and filepaths are for Neo4j Desktop on Mac OS. Related screenshots and filepaths for Windows are coming soon!
