@@ -3,12 +3,12 @@ ArticleId: 78aef262-e480-4a5d-a3a2-839450ce4b1b
 ArticleIndex: 97
 Created: Dec 23, 2020 5:58 PM
 URL: https://youtu.be/vsGrFYD5Nfs
-Updated: Dec 23, 2020 6:40 PM
+Updated: Dec 23, 2020 7:32 PM
 WebClipIndex: 97
 author: Kailash Vetal
 secret: true
 slug: 78aef262-e480-4a5d-a3a2-839450ce4b1b
-title: Watch "Bertha Benz: The Journey That Changed Everything" on YouTube
+title: Watch "Bertha Benz- The Journey That Changed Everything" on YouTube
 ---
 ![maxresdefault.jpg](97%206b9499bc3e8c4eedac4df8e9e2accef7/maxresdefault.jpg)
 
